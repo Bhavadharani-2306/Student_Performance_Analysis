@@ -64,3 +64,6 @@ The **Student Performance Analysis System** is a Python-based project that aims 
 ---
 
 ## Screenshots
+
+![1](https://github.com/user-attachments/assets/312e2e3d-5735-4705-86a0-b0d0ced19e17)
+![2](https://github.com/user-attachments/assets/c1107a40-a5ff-4e20-b734-9ee1221c52eb)
