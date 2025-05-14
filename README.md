@@ -53,13 +53,16 @@ The **Student Performance Analysis System** is a Python-based project that aims 
    pip install -r requirements.txt
 
 
-4. Open a new python file "app.py" and then enter the code
+4. Open a new python file "student_performance_app.py" and then enter the code
 
    
 5. Run
 
    ```bash
    streamlit run app.py
+
+6. Link
+   http://192.168.73.250:8501
 
 ---
 
