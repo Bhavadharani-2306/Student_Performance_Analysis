@@ -62,6 +62,7 @@ The **Student Performance Analysis System** is a Python-based project that aims 
    streamlit run app.py
 
 6. Link
+   
    http://192.168.73.250:8501
 
 ---
