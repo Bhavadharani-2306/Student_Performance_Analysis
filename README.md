@@ -59,7 +59,7 @@ The **Student Performance Analysis System** is a Python-based project that aims 
 5. Run
 
    ```bash
-   streamlit run app.py
+   streamlit run student_performance_app.py
 
 6. Link
    
